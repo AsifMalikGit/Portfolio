@@ -1,7 +1,7 @@
 # Portfolio
 Digital Portfolio
 
-## TODO
+### TODO
 1. Add Education section
 2. Add Previous Employement
 3. Add Projects and Links
